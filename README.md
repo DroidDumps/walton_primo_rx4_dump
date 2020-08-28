@@ -1,0 +1,13 @@
+# full_PrimoRX4-user 5.1 LMY47I 1451882031 test-keys
+- manufacturer: walton
+- platform: mt6592
+- codename: Primo_RX4
+- flavor: full_PrimoRX4-user
+- release: 5.1
+- id: LMY47I
+- incremental: WLT_D201W_K000_V2.1B12
+- tags: test-keys
+- fingerprint: alps/full_PrimoRX4/PrimoRX4:5.1/LMY47I/1451882031:user/test-keys
+- brand: WALTON
+- branch: full_PrimoRX4-user-5.1-LMY47I-1451882031-test-keys
+- repo: walton_primo_rx4_dump
